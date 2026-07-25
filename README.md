@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**1** solved · 1 problems · 0 labs · 0 math
+**3** solved · 3 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -12,6 +12,8 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Calculate Image Brightness](https://www.deep-ml.com/problems/70) | easy | 2026-07-25 | [solution](problems/0070-calculate-image-brightness) |
+| [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2026-07-25 | [solution](problems/0001-matrix-vector-dot-product) |
 | [Dot Product](https://www.deep-ml.com/problems/1208) | medium | 2026-09-22 | [solution](problems/1208-dot-product) |
 
 ---
