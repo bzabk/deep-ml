@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**4** solved · 4 problems · 0 labs · 0 math
+**6** solved · 6 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -14,6 +14,8 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | --- | --- | --- | --- |
 | [Calculate Image Brightness](https://www.deep-ml.com/problems/70) | easy | 2026-07-25 | [solution](problems/0070-calculate-image-brightness) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2026-07-25 | [solution](problems/0001-matrix-vector-dot-product) |
+| [Vector Addition](https://www.deep-ml.com/problems/1202) | easy | 2026-08-28 | [solution](problems/1202-vector-addition) |
+| [Your First CUDA Kernel: Thread Index](https://www.deep-ml.com/problems/1201) | easy | 2026-08-28 | [solution](problems/1201-your-first-cuda-kernel-thread-index) |
 | [Compute Orthonormal Basis for 2D Vectors](https://www.deep-ml.com/problems/117) | medium | 2026-07-26 | [solution](problems/0117-compute-orthonormal-basis-for-2d-vectors) |
 | [Dot Product](https://www.deep-ml.com/problems/1208) | medium | 2026-09-22 | [solution](problems/1208-dot-product) |
 

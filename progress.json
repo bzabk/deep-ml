@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T21:41:10.697Z",
+  "generated_at": "2026-09-22T21:41:13.430Z",
   "items": {
     "problem:1208": {
       "kind": "problem",
@@ -52,6 +52,32 @@
       "last_pushed_at": "2026-07-26T19:36:35.601Z",
       "language": "python",
       "lines": 31
+    },
+    "problem:1201": {
+      "kind": "problem",
+      "id": "1201",
+      "title": "Your First CUDA Kernel: Thread Index",
+      "difficulty": "easy",
+      "category": "Cuda",
+      "url": "https://www.deep-ml.com/problems/1201",
+      "path": "problems/1201-your-first-cuda-kernel-thread-index",
+      "first_solved_at": "2026-08-28T22:40:30.878Z",
+      "last_pushed_at": "2026-08-28T22:40:30.878Z",
+      "language": "python",
+      "lines": 26
+    },
+    "problem:1202": {
+      "kind": "problem",
+      "id": "1202",
+      "title": "Vector Addition",
+      "difficulty": "easy",
+      "category": "Cuda",
+      "url": "https://www.deep-ml.com/problems/1202",
+      "path": "problems/1202-vector-addition",
+      "first_solved_at": "2026-08-28T22:53:53.053Z",
+      "last_pushed_at": "2026-08-28T22:53:53.053Z",
+      "language": "python",
+      "lines": 34
     }
   }
 }
