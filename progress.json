@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T21:41:13.430Z",
+  "generated_at": "2026-09-22T21:41:15.707Z",
   "items": {
     "problem:1208": {
       "kind": "problem",
@@ -78,6 +78,32 @@
       "last_pushed_at": "2026-08-28T22:53:53.053Z",
       "language": "python",
       "lines": 34
+    },
+    "problem:1203": {
+      "kind": "problem",
+      "id": "1203",
+      "title": "Scalar Multiply (a * x)",
+      "difficulty": "easy",
+      "category": "Cuda",
+      "url": "https://www.deep-ml.com/problems/1203",
+      "path": "problems/1203-scalar-multiply-a-x",
+      "first_solved_at": "2026-08-29T07:44:21.591Z",
+      "last_pushed_at": "2026-08-29T07:44:21.591Z",
+      "language": "python",
+      "lines": 27
+    },
+    "problem:1204": {
+      "kind": "problem",
+      "id": "1204",
+      "title": "ReLU Activation",
+      "difficulty": "easy",
+      "category": "Cuda",
+      "url": "https://www.deep-ml.com/problems/1204",
+      "path": "problems/1204-relu-activation",
+      "first_solved_at": "2026-08-29T11:41:01.342Z",
+      "last_pushed_at": "2026-08-29T11:41:01.342Z",
+      "language": "python",
+      "lines": 28
     }
   }
 }
