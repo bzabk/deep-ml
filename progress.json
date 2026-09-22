@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T21:41:15.707Z",
+  "generated_at": "2026-09-22T21:41:17.488Z",
   "items": {
     "problem:1208": {
       "kind": "problem",
@@ -104,6 +104,32 @@
       "last_pushed_at": "2026-08-29T11:41:01.342Z",
       "language": "python",
       "lines": 28
+    },
+    "problem:1206": {
+      "kind": "problem",
+      "id": "1206",
+      "title": "Add Two Matrices (2D Grid)",
+      "difficulty": "medium",
+      "category": "Cuda",
+      "url": "https://www.deep-ml.com/problems/1206",
+      "path": "problems/1206-add-two-matrices-2d-grid",
+      "first_solved_at": "2026-09-22T21:16:01.910Z",
+      "last_pushed_at": "2026-09-22T21:16:01.910Z",
+      "language": "python",
+      "lines": 58
+    },
+    "problem:1209": {
+      "kind": "problem",
+      "id": "1209",
+      "title": "Naive Matrix Multiplication",
+      "difficulty": "medium",
+      "category": "Cuda",
+      "url": "https://www.deep-ml.com/problems/1209",
+      "path": "problems/1209-naive-matrix-multiplication",
+      "first_solved_at": "2026-09-22T21:36:22.889Z",
+      "last_pushed_at": "2026-09-22T21:36:22.889Z",
+      "language": "python",
+      "lines": 73
     }
   }
 }

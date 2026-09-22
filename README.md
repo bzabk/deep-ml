@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**8** solved · 8 problems · 0 labs · 0 math
+**10** solved · 10 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -18,8 +18,10 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Scalar Multiply (a * x)](https://www.deep-ml.com/problems/1203) | easy | 2026-08-29 | [solution](problems/1203-scalar-multiply-a-x) |
 | [Vector Addition](https://www.deep-ml.com/problems/1202) | easy | 2026-08-28 | [solution](problems/1202-vector-addition) |
 | [Your First CUDA Kernel: Thread Index](https://www.deep-ml.com/problems/1201) | easy | 2026-08-28 | [solution](problems/1201-your-first-cuda-kernel-thread-index) |
+| [Add Two Matrices (2D Grid)](https://www.deep-ml.com/problems/1206) | medium | 2026-09-22 | [solution](problems/1206-add-two-matrices-2d-grid) |
 | [Compute Orthonormal Basis for 2D Vectors](https://www.deep-ml.com/problems/117) | medium | 2026-07-26 | [solution](problems/0117-compute-orthonormal-basis-for-2d-vectors) |
 | [Dot Product](https://www.deep-ml.com/problems/1208) | medium | 2026-09-22 | [solution](problems/1208-dot-product) |
+| [Naive Matrix Multiplication](https://www.deep-ml.com/problems/1209) | medium | 2026-09-22 | [solution](problems/1209-naive-matrix-multiplication) |
 
 ---
 
