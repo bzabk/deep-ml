@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**12** solved · 12 problems · 0 labs · 0 math
+**13** solved · 13 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -21,6 +21,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Add Two Matrices (2D Grid)](https://www.deep-ml.com/problems/1206) | medium | 2026-09-22 | [solution](problems/1206-add-two-matrices-2d-grid) |
 | [Compute Orthonormal Basis for 2D Vectors](https://www.deep-ml.com/problems/117) | medium | 2026-07-26 | [solution](problems/0117-compute-orthonormal-basis-for-2d-vectors) |
 | [Dot Product](https://www.deep-ml.com/problems/1208) | medium | 2026-09-22 | [solution](problems/1208-dot-product) |
+| [Histogram with Atomic Adds](https://www.deep-ml.com/problems/1311) | medium | 2026-09-23 | [solution](problems/1311-histogram-with-atomic-adds) |
 | [Naive Matrix Multiplication](https://www.deep-ml.com/problems/1209) | medium | 2026-09-22 | [solution](problems/1209-naive-matrix-multiplication) |
 | [Parallel Reduction (Block Sum) CUDA Kernel](https://www.deep-ml.com/problems/1189) | medium | 2026-09-23 | [solution](problems/1189-parallel-reduction-block-sum-cuda-kernel) |
 | [Parallel Reduction: Array Sum](https://www.deep-ml.com/problems/1207) | medium | 2026-09-23 | [solution](problems/1207-parallel-reduction-array-sum) |
