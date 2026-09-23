@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T09:53:34.667Z",
+  "generated_at": "2026-09-23T17:57:53.778Z",
   "items": {
     "problem:1208": {
       "kind": "problem",
@@ -143,6 +143,19 @@
       "last_pushed_at": "2026-09-23T09:53:33.789Z",
       "language": "python",
       "lines": 43
+    },
+    "problem:1207": {
+      "kind": "problem",
+      "id": "1207",
+      "title": "Parallel Reduction: Array Sum",
+      "difficulty": "medium",
+      "category": "Cuda",
+      "url": "https://www.deep-ml.com/problems/1207",
+      "path": "problems/1207-parallel-reduction-array-sum",
+      "first_solved_at": "2026-09-23T17:57:52.513Z",
+      "last_pushed_at": "2026-09-23T17:57:52.513Z",
+      "language": "python",
+      "lines": 54
     }
   }
 }
